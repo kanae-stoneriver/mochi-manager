@@ -1,0 +1,6 @@
+@mochi_manager_HostAddress = http://localhost:5151
+
+GET {{mochi_manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
